@@ -1,0 +1,27 @@
+{
+  "name": "Silver Fern Financial",
+  "short_name": "Silver Fern",
+  "description": "Outsourced CFO, COO & CCO services for hedge funds, private equity firms, and family offices.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#F7F3EA",
+  "theme_color": "#004688",
+  "icons": [
+    {
+      "src": "/assets/images/favicon.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/images/favicon192.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/assets/images/favicon512.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}

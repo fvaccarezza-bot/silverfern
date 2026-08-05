@@ -1,0 +1,7 @@
+# 301 redirects: old page filenames -> new SEO-friendly URLs
+# (added when Our Team.dc.html / Privacy Policy.dc.html /
+# Terms and Conditions.dc.html were renamed to team.html /
+# privacy-policy.html / terms-and-conditions.html)
+Redirect 301 /Our%20Team.dc.html /team.html
+Redirect 301 /Privacy%20Policy.dc.html /privacy-policy.html
+Redirect 301 /Terms%20and%20Conditions.dc.html /terms-and-conditions.html
